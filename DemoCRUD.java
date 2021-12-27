@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.*;
 
-public class Database 
+public class DemoCRUD
 {
    public static void main(String args[]) throws Exception
    {
